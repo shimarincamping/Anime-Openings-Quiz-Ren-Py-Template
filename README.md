@@ -1,6 +1,7 @@
 # Ren'Py Generator for Anime Opening Quiz Videos
 
 A generic template for "Easy to Impossible" style anime opening quiz videos
+
 Screen recording required
 
 
